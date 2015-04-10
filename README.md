@@ -5,6 +5,8 @@ When [Google Kubernetes][2] meets [Apache Mesos][3]
 
 Awesome news!
 
+More changes
+
 [![GoDoc] (https://godoc.org/github.com/mesosphere/kubernetes-mesos?status.png)](https://godoc.org/github.com/mesosphere/kubernetes-mesos)
 [![Build Status](https://travis-ci.org/mesosphere/kubernetes-mesos.svg)](https://travis-ci.org/mesosphere/kubernetes-mesos)
 [![Coverage Status](https://coveralls.io/repos/mesosphere/kubernetes-mesos/badge.svg)](https://coveralls.io/r/mesosphere/kubernetes-mesos)
