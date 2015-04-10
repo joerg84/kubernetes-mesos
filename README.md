@@ -3,6 +3,7 @@ kubernetes-mesos
 
 When [Google Kubernetes][2] meets [Apache Mesos][3]
 
+Awesome news!
 
 [![GoDoc] (https://godoc.org/github.com/mesosphere/kubernetes-mesos?status.png)](https://godoc.org/github.com/mesosphere/kubernetes-mesos)
 [![Build Status](https://travis-ci.org/mesosphere/kubernetes-mesos.svg)](https://travis-ci.org/mesosphere/kubernetes-mesos)
