@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_0645c5b2",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1004601
+      },
+      "writtenOn": "2015-04-11T00:21:04Z",
+      "side": 1,
+      "message": "Comment",
+      "revId": "a830e4506bbdd009abf6232dc5b87cf14110d78a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6613d9b8",
+        "filename": "README2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1004601
+      },
+      "writtenOn": "2015-04-11T00:21:04Z",
+      "side": 1,
+      "message": "Comment2",
+      "revId": "a830e4506bbdd009abf6232dc5b87cf14110d78a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
