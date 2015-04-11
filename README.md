@@ -3,7 +3,7 @@ kubernetes-mesos
 
 When [Google Kubernetes][2] meets [Apache Mesos][3]
 
-Awesome news!
+More Awesome news!
 
 More changes
 
